@@ -15,7 +15,7 @@
     <a href="https://clockwise.software/blog/progressive-web-apps-the-new-word-in-user-engagement/">Progressive web apps</a>
   </li>
   <li>
-    <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a>
+    <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS :fire: very good shit :ok_hand:</a>
   </li>
   <li>
     <a href="https://www.youtube.com/watch?v=z6hQqgvGI4Y">Vue.js in 60 minutes ¯\_(ツ)_/¯</a>
