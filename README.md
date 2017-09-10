@@ -18,7 +18,7 @@
     <a href="https://github.com/getify/You-Dont-Know-JS">YDKJS</a>
   </li>
   <li>
-    <a href="https://www.youtube.com/watch?v=z6hQqgvGI4Y">Vue.js in 60 minutes ?\_(?)_/?</a>
+    <a href="https://www.youtube.com/watch?v=z6hQqgvGI4Y">Vue.js in 60 minutes ¯\_(ツ)_/¯</a>
   </li>
   <li>
     <a href="http://rogerdudler.github.io/git-guide/">git gud</a>
