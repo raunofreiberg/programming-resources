@@ -1,4 +1,4 @@
-<h1>good shit below :ok_hand:</h1>
+<h1>good shit below :ok_hand: :100: :white_check_mark: :fire: :clap: :pray: :sunglasses:</h1>
 
 <h3>resources</h3>
 <ul>
