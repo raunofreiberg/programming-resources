@@ -28,7 +28,7 @@
   </li>
 </ul>
 
-<h3>cool and maybe useful shit, maybe not</h3>
+<h3>cool and maybe useful shit, probably not</h3>
 <ul>
     <li>
         <a href="https://codepen.io/rstacruz/pen/oxJqNv">Waves</a>
