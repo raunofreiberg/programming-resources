@@ -26,8 +26,10 @@
   <li>
     <a href="https://github.com/airbnb/javascript/blob/master/README.md">AirBNB JS style guide</a>
   </li>
+  <li>
+    <a href="https://jsonplaceholder.typicode.com/">Mock JSON data</a>
+  </li>  
 </ul>
-
 <h3>cool and maybe useful shit, probably not</h3>
 <ul>
     <li>
