@@ -50,4 +50,7 @@
     <li>
         <a href="https://zeit.co/">Zeit</a>
     </li>
+    <li>
+      <a href="https://github.com/dixonandmoe/rellax">Parallax</a>
+    </li>
 </ul>
