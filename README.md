@@ -53,4 +53,7 @@
     <li>
       <a href="https://github.com/dixonandmoe/rellax">Parallax</a>
     </li>
+    <li>
+      <a href="https://docs.google.com/document/d/18fHKCk9fh7_VhKTzDLObNKoTJrzYoIXHfy1_gKj78LY/edit">React notes</a>
+      </li
 </ul>
