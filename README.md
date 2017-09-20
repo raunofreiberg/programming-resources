@@ -57,7 +57,7 @@
       <a href="https://docs.google.com/document/d/18fHKCk9fh7_VhKTzDLObNKoTJrzYoIXHfy1_gKj78LY/edit">React notes</a>
     </li
     <li>
-      <a href="https://github.com//hyperapp/hyperapp">Hyperapp JS library</a>
+      <a href="https://github.com//hyperapp/hyperapp">hyperapp JS library</a>
     </li>
         <li>
       <a href="https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091">Redux guide</a>
