@@ -44,6 +44,9 @@
       <li>
       <a href="https://github.com/raunofreiberg/modern-js-cheatsheet">JS Cheatsheet</a>
       </li>
+      <li>
+        <a href="https://medium.com/@TK_CodeBear/prototypal-inheritance-in-javascript-and-how-it-is-different-than-classes-7bfe1626ffdb">Prototypal inheritance vs classes</a>
+        </li>
   <li>
     <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">Prototypal inheritance</a>
     </li>
