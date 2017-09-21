@@ -55,20 +55,5 @@
     </li>
     <li>
       <a href="https://github.com/dixonandmoe/rellax">Parallax</a>
-    </li>
-    <li>
-      <a href="https://docs.google.com/document/d/18fHKCk9fh7_VhKTzDLObNKoTJrzYoIXHfy1_gKj78LY/edit">React notes</a>
-    </li
-    <li>
-      <a href="https://github.com//hyperapp/hyperapp">hyperapp JS library</a>
-    </li>
-        <li>
-      <a href="https://hackernoon.com/a-guide-to-tdd-a-react-redux-todolist-app-part-1-b8a200bb7091">Redux guide</a>
-    </li>
-    <li>
-      <a href="https://www.reddit.com/r/webdev/comments/5h7j6w/reactredux_how_best_to_understand/day443o/?sh=597d4f4b&st=J7S4S4J9">redux eli5</a>
-      </li>
-      <li>
-      <a href="https://github.com/raunofreiberg/modern-js-cheatsheet">JS Cheatsheet</a>
-      </li>
+    </li>    
 </ul>
