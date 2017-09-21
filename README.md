@@ -29,6 +29,9 @@
   <li>
     <a href="https://jsonplaceholder.typicode.com/">Mock JSON data</a>
   </li>  
+  <li>
+    <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">Prototypal inheritance</a>
+    </li>
 </ul>
 <h3>cool and maybe useful shit, probably not</h3>
 <ul>
