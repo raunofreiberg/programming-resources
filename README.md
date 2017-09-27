@@ -74,4 +74,7 @@
     <li>
       <a href="https://github.com/dixonandmoe/rellax">Parallax</a>
     </li>    
+    <li>
+    <a href="https://github.com/localForage/localForage">Localforage</a>
+    </li>
 </ul>
