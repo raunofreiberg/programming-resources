@@ -79,8 +79,6 @@
     </li>
 </ul>
 
-# Resources
-
 ## Helpful Articles
 
 ### Learning
