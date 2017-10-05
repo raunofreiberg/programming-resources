@@ -1,6 +1,6 @@
 <h1>good shit below :ok_hand: :100: :white_check_mark: :fire: :clap: :pray: :sunglasses:</h1>
 
-<h3>resources</h3>
+<h3>Resources</h3>
 <ul>
   <li>
     <a href="https://polyfill.io/v2/docs/">Polyfill.io</a>
@@ -51,7 +51,7 @@
     <a href="https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9">Prototypal inheritance</a>
     </li>
 </ul>
-<h3>cool and maybe useful shit, probably not</h3>
+<h3>Cool and maybe useful shit</h3>
 <ul>
     <li>
         <a href="https://codepen.io/rstacruz/pen/oxJqNv">Waves</a>
