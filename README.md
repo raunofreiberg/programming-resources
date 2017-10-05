@@ -130,6 +130,8 @@
 * [7 Rules for creating gorgeuos UI - Part2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
 * [UI Design Principles](https://medium.com/@oymanezzat/ui-design-famous-principles-41269344dd7b)
 
+### Front-end
+* [Grab Front-End Guide](https://github.com/grab/front-end-guide/blob/master/README.md)
 
 
 
