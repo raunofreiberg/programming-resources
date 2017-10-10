@@ -132,6 +132,7 @@
 
 ### Front-end
 * [Grab Front-End Guide](https://github.com/grab/front-end-guide/blob/master/README.md)
+* [Nodelist](https://medium.com/@devlucky/nodelist-object-is-finally-an-iterator-cc529d6e2490)
 
 
 
