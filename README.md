@@ -107,6 +107,9 @@
 3. [Glossary of Modern JavaScript Concepts: Part 2](https://auth0.com/blog/glossary-of-modern-javascript-concepts-part-2/)
 4. [A Study Plan To Cure JavaScript Fatigue](https://medium.freecodecamp.com/a-study-plan-to-cure-javascript-fatigue-8ad3a54f2eb1)
 
+### ES6
+1. [Spread Operator ...](https://davidwalsh.name/spread-operator)
+
 ### Concepts Explained
 
 * [How the Web Works: A Primer for Newcomers to Web Development ](https://medium.freecodecamp.com/how-the-web-works-a-primer-for-newcomers-to-web-development-or-anyone-really-b4584e63585c)
