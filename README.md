@@ -143,6 +143,7 @@
 * [Grab Front-End Guide](https://github.com/grab/front-end-guide/blob/master/README.md)
 * [Nodelist](https://medium.com/@devlucky/nodelist-object-is-finally-an-iterator-cc529d6e2490)
 * [Designing for iPhone X / bezeless screens](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
+* [Cheatsheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
 
 
