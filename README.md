@@ -148,6 +148,9 @@
 * [Designing for iPhone X / bezeless screens](https://webkit.org/blog/7929/designing-websites-for-iphone-x/)
 * [Cheatsheet](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
 
+### React
+* [React pure render anti-patterns](https://medium.com/@esamatti/react-js-pure-render-performance-anti-pattern-fb88c101332f)
+
 
 
 
